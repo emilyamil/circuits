@@ -4,7 +4,7 @@ Made in collaboration with several other students in the CS353 class at UWGB
 
 For circuit descriptions, check Wiki section
 
-Circuits:
+Circuits:   
   Traffic Light
   Full Adder
   Two Bit Adder
